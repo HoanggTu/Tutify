@@ -145,7 +145,7 @@ function setupEventListeners() {
   }
   if (openPlaylistBtn) {
     openPlaylistBtn.addEventListener("click", () => {
-      const playlistId = "1LXrJIgy8GPBsLNgScRMSh";
+      const playlistId = "";
       showSpotifyPlaylistEmbed(playlistId);
     });
   }

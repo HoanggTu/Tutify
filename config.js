@@ -41,21 +41,7 @@ const SPOTIFY_CONFIG = {
 
 // Demo tracks với nhạc Việt Nam hot
 const DEMO_TRACKS = [
-  {
-    id: "demo1",
-    name: "Chúng Ta Của Hiện Tại",
-    artists: [{ name: "Sơn Tùng M-TP" }],
-    album: {
-      images: [
-        {
-          url: "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=300&h=300&fit=crop&auto=format",
-        },
-      ],
-    },
-    preview_url:
-      "https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
-    duration_ms: 30000,
-  },
+  
   {
     id: "demo2",
     name: "Anh Đang Ở Đâu Đấy Anh",
